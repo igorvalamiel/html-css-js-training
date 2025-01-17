@@ -1,0 +1,19 @@
+#name {
+    font-size: xx-large;
+    text-align: center;
+}
+
+#place {
+    background-color: aqua;
+    margin-inline-start: 600px;
+    margin-inline-end: 600px;
+}
+
+#malha {
+    font-size: large;
+}
+
+.c0 {
+    border-color: black;
+    border: 1px;
+}
